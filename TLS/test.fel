@@ -1,0 +1,12 @@
+## M 12
+#location_in_ram 0x2000
+#x16
+
+low a @PUT = low a
+low b @ADD = low b
+low b @SUB = low a
+low c @AND = low a
+low a @PUT = low 12
+low a @PUT = low *M
+
+#end_of_felprog
