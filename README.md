@@ -17,7 +17,8 @@ A Simple OS written in ASM + Custom own lang.
 current version: V0.1
 
 # How to test it myself?
-Just run getfebin.sh (dont forget to add chmod +x to it), it auto made all things and ended up with an .img file.
+First clone it with git <code>git clone https://github.com/anhumandev/feos</code>
+Just run getfeimg.sh (dont forget to add chmod +x to it), it auto made all things and ended up with an .img file.
 
 # About Source
 ## BOOT
