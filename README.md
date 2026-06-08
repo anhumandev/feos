@@ -34,5 +34,6 @@ In this folder translator of Felang (.fel -> .asm - NASM) exists. (unfinished an
 3. <code>trinfo</code> Some information about shell (LFM)
 
 ## List of somethings then they is not finished
-1. A mode in BootMenu
+1. "A" mode in BootMenu (installer)
 2. Fel (felang)
+3. Support hard disk (it use floppy now)
