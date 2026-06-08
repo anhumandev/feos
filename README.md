@@ -16,7 +16,7 @@ P.S. FeOS currently supports 0 syscalls. Just like my social life.
 A Simple OS written in ASM + Custom own lang.
 current version: V0.1
 
-# How to test it myself?
+# How to test it myself?feos 
 First clone it with git <code>git clone https://github.com/anhumandev/feos</code>
 Just run getfeimg.sh (dont forget to add chmod +x to it), it auto made all things and ended up with an .img file.
 
@@ -28,4 +28,11 @@ In this folder tools of Fe Shell then written in Fel (FeLang) be. (They are unfi
 ## TLS
 In this folder translator of Felang (.fel -> .asm - NASM) exists. (unfinished and may have bugs.) 
 
+## List of command's
+1. <code>flush</code> clear screen
+2. <code>offsystem</code> off computer via APM (for old pc's bro.)
+3. <code>trinfo</code> Some information about shell (LFM)
 
+## List of somethings then they is not finished
+1. A mode in BootMenu
+2. Fel (felang)
